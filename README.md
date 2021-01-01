@@ -4,7 +4,7 @@
 
 ### Approximating optimal transportation maps using k-d trees.
 
-Code to reproduce the methods of the [paper](https://arxiv.org/abs/1912.02317). Included are:
+Code to reproduce the methods of the aforementioned [paper](https://arxiv.org/abs/1912.02317). Included are:
 * Example script for typical usage
 * Algorithm used build k-d tree used to construct the map
 * Testing scripts to generate results and perform a comparison
@@ -27,11 +27,11 @@ Download the files or fork the repository, and then run ``example.py``.
 
 #### Bugs
 
-If a bug is found, please email the code's author or create an issue.
+If a bug is found, feel free to contact me or create an issue.
 
 #### Acknowledgements
 
-The code's author would like to thank:
+I would like to thank:
 * [NSERC](https://www.nserc-crsng.gc.ca/) and [FRQNT](http://www.frqnt.gouv.qc.ca/accueil) for financial support
 * The [POT team](https://pot.readthedocs.io/en/stable/#acknowledgements) for their library
 
